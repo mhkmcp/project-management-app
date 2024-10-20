@@ -1,6 +1,7 @@
 node_modules/
 app/node_modules/
 app/.prettierrc
+app/.next/
 
 # dependencies
 /node_modules
